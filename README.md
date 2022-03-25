@@ -54,4 +54,6 @@ well_pressure_prediction
 well_schematic)_*
 <br/><br/>
 
-The training images for the yolov5s DLA (document layout) model can be freely downloaded and be used at https://universe.roboflow.com/peter-j1jzx/findthe-images
+The training images for the yolov5s DLA (document layout) model can be freely downloaded and be used at https://universe.roboflow.com/peter-j1jzx/findthe-images. You can also export the images cropped to the bounding boxes and use this for classification rather than segmentation
+<br/><br/>
+![This is an image](msedge_s5APtai5j8.png)
