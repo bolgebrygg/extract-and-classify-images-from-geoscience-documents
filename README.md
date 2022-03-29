@@ -1,6 +1,9 @@
 # extract-and-classify-images-from-geoscience-documents
 ## Geoscience document layout for figures and figure classification in 48 geoscience image categories
 
+Augmented training images for the yolov5s DLA (document layout) model can be freely downloaded and be used at https://universe.roboflow.com/peter-j1jzx/findthe-images
+original training DAL traning data in yolov5 format is in the repro
+
 In this repro you can find the code to extract geoscience figures from typical oil and gas well reports and other typical oil and gas documents like conference papers or relinquishment reports
 
 Additionally we provide a pretrained tensorflow Resnet50 V2 model trained on Microsoft LOBE https://www.lobe.ai/ for the classification of the extracted geoscience figures. The figure classifier has been trained on 30.0000 publicly available geoscience images extracted from a variety of data soruces (open access journals, relinquishment reports, NPD wellbore documents, NLOG publications. 
