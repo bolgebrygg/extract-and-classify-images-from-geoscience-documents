@@ -1,5 +1,5 @@
 # extract-and-classify-images-from-geoscience-documents
-## Geoscience document layout for figures and figure classification in 48 geoscience image categories
+## Geoscience document layout for figures and figure classification into 48 geoscience image categories
 
 ### Augmented and non augmented  training images for the yolov5s DLA (document layout) model can be freely downloaded and be used at https://universe.roboflow.com/peter-j1jzx/findthe-images. The pretrained DLA model is in the repro.
 ### The tensorflow model to to classify the images is located in a zip file in the repro.
